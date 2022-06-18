@@ -1,0 +1,36 @@
+id: I40098635
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:01:31.330070'
+last_modified: '2022-06-19T04:01:31.330082'
+parser: null
+source_metadata:
+  title: mKhyen brtse on the History of the Dharma, section on the Sakya tradition
+  author: jam dbyangs mkhyen brtsei dbang po/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-09); revised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Volker Caumanns (vc), Jörg Heimbel (jh)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/278
+  bases:
+    e86b:
+      title: mKhyen brtse on the History of the Dharma, section on the Sakya tradition
+      order: 1
+      base_file: e86b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
